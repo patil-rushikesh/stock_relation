@@ -7,7 +7,7 @@ install.packages("ggplot2")
 install.packages("dplyr")
 install.packages("reshape2")
 install.packages("gridExtra")
-install.packages("GGally")
+# install.packages("GGally")
 
 # Loading libraries
 library(quantmod)
